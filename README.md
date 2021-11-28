@@ -1,5 +1,5 @@
 ## Hi there 👋
-- 🔭 I’m currently working on ... Facial Recognition Project.. More details to come. Currently brainstorming.
+- 🔭 I’m currently working on ... Facial Recognition Project.. More details to come. Currently brainstorming. Also, going to analyze Digimon TCG data I've created myself very soon.
 - 🌱 I’m currently learning ... Data Analytics and Data Science through Coursera and self learning.
 - 👯 I’m looking to collaborate on ... open source projects.
 - 🤔 I’m looking for help with ... finding a job.
