@@ -1,12 +1,12 @@
 ## Hi there 👋
-- 🔭 I’m currently working on ... Facial Recognition Project.. More details to come. Currently brainstorming. Also, going to analyze Digimon TCG data I've created myself very soon.
-- 🌱 I’m currently learning ... Data Analytics and Data Science through Coursera and self learning.
-- 👯 I’m looking to collaborate on ... open source projects.
-- 🤔 I’m looking for help with ... finding more experience in data analytics.
-- 💬 Ask me about ... anything. 
-- 📫 How to reach me: ... my email.
-- 😄 Pronouns: ... She/Her
-- ⚡ Fun fact: ... I like board games, Digimon TCG, and sports(tennis, pickle ball, basketball, frisbee, etc.)
+- 🔭 **I’m currently working on ...** Facial Recognition Project.. More details to come. Currently brainstorming. Also, going to analyze Digimon TCG data I've created myself very soon.
+- 🌱 **I’m currently learning ...** Data Analytics and Data Science through Coursera and self learning.
+- 👯 **I’m looking to collaborate on ...** open source projects and data analytic projects.
+- 🤔 **I’m looking for help with ...** finding more experience in data analytics.
+- 💬 **Ask me about ...** anything. 
+- 📫 **How to reach me: ...** by email.
+- 😄 **Pronouns: ...** She/Her
+- ⚡ **Fun fact: ...** I like board games, Digimon TCG, and sports(tennis, pickle ball, basketball, frisbee, etc.)
 
 <!--
 **CatTastic23/CatTastic23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
